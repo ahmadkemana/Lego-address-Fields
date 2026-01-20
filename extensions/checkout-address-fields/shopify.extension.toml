@@ -19,7 +19,7 @@ handle = "checkout-address-field"
 
 [[extensions.targeting]]
 module = "./src/Checkout.jsx"
-target = "purchase.checkout.block.render"
+target = "purchase.checkout.delivery-address.render-after"
 [extensions.capabilities]
 block_progress = true
 
